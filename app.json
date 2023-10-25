@@ -1,5 +1,5 @@
 {
-  "name": "RIKA-MD by Rika ",
+  "name": "RYKA-MD by Rika ",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/97de15827fc042644a964.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "RikaBot", "Secktor","RIKAMD","theme bot","multi device","baileys","RIKA"],
@@ -80,7 +80,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are IZUKU,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "RIKA"
+     "value": "RYKA"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
