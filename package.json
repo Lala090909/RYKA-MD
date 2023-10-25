@@ -1,7 +1,7 @@
 {
- "name": "rika-md",
+ "name": "ryka-md",
  "version": "0.0.7",
- "description": "Multi device whatsapp bot by Layefa7.",
+ "description": "Multi device whatsapp bot by Lala090909.",
  "main": "lib/client.js",
  "type": "commonjs",
  "license": "GPL-3.0",
@@ -9,7 +9,7 @@
   "start": "pm2 start lib/client.js --deep-monitoring --attach --name rika",
   "stop": "pm2 stop rika"
  },
- "author": "excelottah6",
+ "author": "Lala090909",
 "dependencies": {
   "node-schedule": "^2.0.0",
   "@adiwajshing/keyed-db": "^0.2.4",
@@ -70,10 +70,10 @@
  },
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/Layefa7/RIKA-MD.git"
+  "url": "git+https://github.com/Lala090909/RYKA-MD.git"
  },
  "bugs": {
-  "url": "https://github.com/Layefa7/RIKA-MD/issues"
+  "url": "https://github.com/Lala090909/RYKA-MD/issues"
  },
- "homepage": "https://github.com/Layefa7/RIKA-MD#readme"
+ "homepage": "https://github.com/Lala090909/RYKA-MD#readme"
 }
