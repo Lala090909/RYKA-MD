@@ -3,13 +3,13 @@
   <a href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS">
     <img alt=Support height="400" src="https://telegra.ph/file/97de15827fc042644a964.jpg"> 
     </p>
-<h1 align="center"> 𝚁𝙸𝙺𝙰-𝙼𝙳 𝚄𝙻𝚃𝚁𝙰 𝙱𝙾𝚃
+<h1 align="center"> 𝚁𝚈𝙺𝙰-𝙼𝙳 𝚄𝙻𝚃𝚁𝙰 𝙱𝙾𝚃
 </h1>
 <p align="center"> 
  ! ɪ ᴀᴍ ᴀ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ʀɪᴋᴀ ᴀɴᴅ ʀᴇᴄᴏʀᴅᴇᴅ ʙʏ ʀɪᴋᴀ ᴛᴏ ᴅᴏ ᴇᴠᴇʀʏᴛʜɪɴɢ ᴛʜᴀᴛ ɪs ᴘᴏssɪʙʟᴇ ᴏɴ ᴡʜᴀᴛsᴀᴘᴘ ʙᴀsᴇᴅ ᴏɴ ᴡʜᴀᴛsᴀᴘᴘ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ(ᴍᴅ) sᴜᴘᴘᴏʀᴛ.
 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+RIKA-𝙼𝙳;ULTRA+BOT;CREATED+BY+RIKA;PUBLIC+RELEASED; ...;TEAM 𝚁𝙸𝙺𝙰-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+RIKA-𝙼𝙳;ULTRA+BOT;CREATED+BY+RYKA;PUBLIC+RELEASED; ...;TEAM 𝚁𝙸𝙺𝙰-𝙼𝙳." alt="Typing SVG" /></a>
   </p>
   <br>
 
@@ -36,7 +36,7 @@
 1. ***Get [SESSION-ID](https://replit.com/@Excelottah/BLACK-Md) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
-2. ***Click [FORK](https://github.com/Layefa7/RIKA-MD/fork)***
+2. ***Click [FORK](https://github.com/Layefa7/RYKA-MD/fork)***
  
 ---
 
@@ -96,7 +96,7 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Layefa/RIKA-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Layefa/RYKA-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
