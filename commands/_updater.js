@@ -10,9 +10,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Rika-Md
- * @author : Rika <https://github.com/Layefa7>
- * @description : Rika-md,A Multi-functional whatsapp bot.
+ * @project_name : RYKA-MD
+ * @author : Rika <https://github.com/Lala090909>
+ * @description : RYKA-MD,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -38,7 +38,7 @@ async (Void, citel, text, { isCreator }) => {
 
     updating = true;
     let asciiBorder = '╔══════════════════════════╗\n';
-    asciiBorder += '║    Updater - IZUKU MD    ║\n';
+    asciiBorder += '║    Updater - RYKA MD    ║\n';
     asciiBorder += '╚══════════════════════════╝\n';
 
     // Create a loading bar
