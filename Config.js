@@ -7,12 +7,12 @@ global.owner = process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'sam@secktor.live'
-global.github = 'https://github.com/Layefa7/RIKA-MD'
+global.github = 'https://github.com/Lala090909/RYKA-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '994408223019'
 global.devs = '994408223019';
-global.website = 'https://github.com/Layefa7/RIKA-MD' //wa.me/+994408223019
+global.website = 'https://github.com/Lala090909/RYKA-MD' //wa.me/+994408223019
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? 'RIKA 𝐁𝐨𝐭' : process.env.BOT_NAME,
