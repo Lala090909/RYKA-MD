@@ -11,9 +11,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Rika-Md
- * @author : Layefa7 <https://github.com/Layefa7>
- * @description : Rika,A Multi-functional whatsapp bot.
+ * @project_name : RYKA-MD
+ * @author : Layefa7 <https://github.com/Lala090909>
+ * @description : Ryka,A Multi-functional whatsapp bot.
  * @version 0.0.6
  *
  */
