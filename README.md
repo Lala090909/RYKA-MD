@@ -17,13 +17,13 @@
 
 <p align="right">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Layefa7/RIKA-MD" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/Lala090909/RYKA-MD" />
   </a>
   
   
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Layefa7}/count.svg" alt="Layefa7 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Lala090909}/count.svg" alt="Lala090909 :: Visitor's Count" /></p>
 <p align="center">
  <a href="https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ BOT VIP CLASS -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
