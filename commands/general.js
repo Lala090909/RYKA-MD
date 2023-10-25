@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Rika-Md
- * @author :  Layefa7 <https://github.com/Layefa7>
- * @description : Rika,A Multi-functional whatsapp bot.
+ * @project_name : RYKA-MD
+ * @author :  rika <https://github.com/Lala090909>
+ * @description : Ryka,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -119,9 +119,9 @@ cmd({
 ╭┈─────────────────────    .· * • ˚
 │*⭐ Total Stars:* ${data.stargazers_count} stars
 │*🍴 Forks:* ${data.forks_count} forks
-│*📡 Repo:* https://github.com/Layefa7/RIKA-MD
+│*📡 Repo:* https://github.com/Lala090909/RYKA-MD
 │*🏘Group:* https://chat.whatsapp.com/JB6c9oeAvue6YC7nSgRdPS
-│*🧑‍💻Deploy RIKA MD*:https://github.com/Layefa7/RIKA-MD
+│*🧑‍💻Deploy RIKA MD*:https://github.com/Lala090909/RYKA-MD
 ╰──────────────────────✬      * ˚  ✶`
         let buttonMessaged = {
             image: { url: await botpic() },
@@ -130,7 +130,7 @@ cmd({
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "IZUKU-Repo",
+                    title: "RYKA-Repo",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
@@ -202,8 +202,8 @@ cmd({
 async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
-let str="*All available themes in RIKA *"
-str+=`1. RIKA\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. GARENA\n14. SECKTOR\n15 Eren Jeager\n\n these are the themes of RIKA Userbot.\_Reply ${prefix}setvar THEME:GARENA`
+let str="*All available themes in RYKA *"
+str+=`1. RYKA\n2. ADAM\n3. FRIDAY\n4.  GIDEON\n5. GOKU\n6. LUFFY\n7. NARUTO\n8. NEZUKO\n9. PARKER\n10.  n\n\ these are the themes of RIKA Userbot.\_Reply ${prefix}setvar THEME:RYKA`
 return citel.reply(str)
     
 }
